@@ -1,0 +1,9 @@
+body {
+	 background-image: url('http://www.reddyjanasangha.org/images/bg-top.jpg');
+	  background-repeat: no-repeat;
+	 background-position: center center;
+	  background-attachment: fixed;
+	  margin: 0;
+	  padding: 0px;
+	  font-family:'Roboto Condensed',sans-serif;
+}
